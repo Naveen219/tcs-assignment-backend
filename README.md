@@ -5,5 +5,7 @@ TCS Internship Assignment Backend
  
  ### Functionalities Implemented
  **1** Added JWT Authentication
+ 
+ 
  **2** Created REST APIS for Chart data
  
